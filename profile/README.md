@@ -1,4 +1,4 @@
-Welcome to the Middlebury Polygon Meshing and Rendering (`middpolymer`) Libraries!
+Welcome to the Middlebury Geometric Computing Libraries!
 
 This is a collection of libraries for creating, adapting, and visualizing meshes, which can then be used for numerical simulations.
 
